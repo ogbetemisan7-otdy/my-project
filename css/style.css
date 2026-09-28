@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    background-color: black;
+}
+p{
+    background-color: black;
+    color: white;
+}
+#myId{
+        color: white;
+        background-color: lightblue;
+}
+.my-class{
+    color: white;
+    background-color: yellow;
+}
